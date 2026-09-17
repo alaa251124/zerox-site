@@ -1,0 +1,7 @@
+ZERO X V6 Responsive
+- Mobile, tablet and desktop layouts optimized.
+- Added viewport meta to HTML pages.
+- Added responsive CSS breakpoints.
+- Prevented horizontal overflow.
+- Images/media constrained to viewport.
+- Forms and buttons optimized for touch/mobile.
